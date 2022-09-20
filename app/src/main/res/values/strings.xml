@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FCM_one_to_user_TASK</string>
+    <string name="msg_token_fmt">Token_Id</string>
+
+</resources>
